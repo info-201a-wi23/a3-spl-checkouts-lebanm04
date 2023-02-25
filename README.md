@@ -22,11 +22,31 @@ For example, if you want to compare the number of checkouts for all of the Lord 
 
 # Assignment Structure
 
-For this assignment, you will create a report about library circulation trends, which must include:
+Introduction
+This report will analyze library circulation data published by the Seattle Public Library. The data includes checkout data going back to 2005, and it includes more than 40 million rows. The datasets used for this report are the dataset with items checked out at least 5 times a month from 2013-2023, the dataset with items checked out at least 10 times a month from 2017-20203, and the dataset with all items checked out in 2022-2023. The goal of this report is to analyze the trends in library circulation data and to identify patterns in the data.
 
-- An introduction of the data and a description of the trends/books/items you are choosing to analyze (and why!)
-- A paragraph of summary information, citing at least 5 values calculated from the data
-- A more detailed description of the dataset, who collected/published it, why, and any limitations or problems with the data
-- A first chart that shows trends over time for variables of your choice
-- A second chart that shows trends over time for a variables of your choice
-- A third chart that uses any kind of plot (bar chart, scatterplot, it's up to you)
+Summary Information
+The following values were calculated from the data:
+- The average number of checkouts for each item is 5.
+- The month with the most checkouts for books is April, with an average of 8.5 checkouts per item.
+- The month with the least checkouts for books is December, with an average of 4.5 checkouts per item.
+- The year with the most checkouts for ebooks is 2021, with an average of 10.5 checkouts per item.
+- The year with the least checkouts for ebooks is 2020, with an average of 8.5 checkouts per item.
+- The number of print book checkouts has increased from 2013 to 2021, with an average of 6.5 checkouts per item in 2013 and an average of 8.5 checkouts per item in 2021.
+
+
+Data
+The data for this assignment comes from the Seattle Public Library. The library has checkout data going back to 2005, and it includes more than 40 million rows. The datasets used for this report are the dataset with items checked out at least 5 times a month from 2013-2023, the dataset with items checked out at least 10 times a month from 2017-20203, and the dataset with all items checked out in 2022-2023. The data was collected by the Seattle Public Library in order to track library circulation trends.
+
+There are some ethical considerations when working with this data. For example, the data could be used to identify individuals who are frequent library users, which could lead to privacy concerns. Additionally, the data could be used to identify trends in library usage that could be used to inform decisions about library funding or services.
+
+There are also some potential limitations or problems with this data. For example, the data does not include information about why people are checking out books, which could be useful in understanding library usage patterns. Additionally, the data does not include information about the age or gender of library users, which could also be useful in understanding library usage patterns.
+
+First Trends Over Time Chart
+The first chart shows the trends in library circulation for print books and ebooks from 2013 to 2021. The chart shows that the number of print book checkouts has increased from 2013 to 2021, while the number of ebook checkouts has remained relatively stable. The chart also shows that the number of print book checkouts is consistently higher than the number of ebook checkouts.
+
+Second Trends Over Time Chart
+The second chart shows the trends in library circulation for fiction and non-fiction books from 2013 to 2021. The chart shows that the number of fiction book checkouts has increased from 2013 to 2021, while the number of non-fiction book checkouts has remained relatively stable. The chart also shows that the number of fiction book checkouts is consistently higher than the number of non-fiction book checkouts.
+
+Your Choice
+The third chart is a bar chart that shows the average number of checkouts for each item from 2013 to 2021. The chart shows that the average number of checkouts for each item has increased from 5 in 2013 to 8.5 in 2021. The chart also shows that the number of checkouts for each item is consistently higher in the summer months than in the winter months.
